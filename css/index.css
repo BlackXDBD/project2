@@ -463,7 +463,8 @@ body, html {
 }
 .logo__img {
   aspect-ratio: 1;
-  width: 16px;
+  width: 150px;
+  height: 32px;
 }
 .logo__name {
   font-weight: 700;
