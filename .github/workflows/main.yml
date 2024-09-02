@@ -36,3 +36,5 @@ jobs:
           branch: gh-pages
           folder: dist
           single-commit: false
+        env:
+           NODE_AUTH_TOKEN: ${{secrets.NPM_TUTH_TOKEN}}
