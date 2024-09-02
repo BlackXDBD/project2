@@ -1,10 +1,10 @@
 {
-  "name": "portfolio",
+  "name": "@blackxdbd/project2",
   "version": "1.2.0",
   "main": "src/app/index.js",
   "author": {
     "name": "Elias",
-    "url": "https://rajonmn.github.io"
+    "url": "https://blackxdbd.github.io/project2/"
   },
   "license": "MIT",
   "devDependencies": {
