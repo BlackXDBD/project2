@@ -21,8 +21,8 @@
     "webpack-cli": "^5.0.0",
     "webpack-dev-server": "^4.11.1"
   },
-  "scripts": {
-    "build": "webpack",
-    "serve": "webpack serve"
-  }
+ "scripts": {
+  "build": "webpack --mode production",
+  "serve": "webpack serve --mode development"
+}
 }
